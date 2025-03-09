@@ -1,2 +1,11 @@
 # swiss-canton-stats
-Statistiken über Kantone in der Schweiz / Statistiques sur les cantons en Suisse / Statistiche sui cantoni in Svizzera / Statisticas davart ils chantuns en Svizra / Statistics about cantons in Switzerland
+```
+Statistiken über Kantone in der Schweiz
+Statistiques sur les cantons en Suisse
+Statistiche sui cantoni in Svizzera
+Statisticas davart ils chantuns en Svizra
+Statistics about cantons in Switzerland
+```
+
+The repository holds the code and data to visualize the statistics about Swiss cantons.
+
