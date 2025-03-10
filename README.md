@@ -22,6 +22,7 @@ The repository holds the code and data to visualize the statistics about Swiss c
 3. Population.
    1. [Detailed population data of 2023](https://www.bfs.admin.ch/news/en/2024-0234)
    2. One example. [Acquisition of Swiss citizenship by canton, type of acquisition, sex, age and previous citizenship](https://www.bfs.admin.ch/bfs/en/home/news/whats-new.assetdetail.32208075.html) (.px file)
+   3. [Demographic Balance by Canton](./data/raw/population/demographic-balance-by-canton.px) A small sample file from [Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/news/whats-new.assetdetail.32208093.html)
 
 # Reference
 1. [Portraits by Canton](https://www.bfs.admin.ch/bfs/en/home/statistics/regional-statistics/regional-portraits-key-figures/cantons.html). [Visualized results](https://www.atlas.bfs.admin.ch/maps/13/fr/16455_233_228_227/25666.html)
