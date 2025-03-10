@@ -18,6 +18,7 @@ The repository holds the code and data to visualize the statistics about Swiss c
    3. Selected indicators in international comparison, 2021 [xlsx](https://www.bfs.admin.ch/bfs/en/home/statistics/regional-statistics/regional-portraits-key-figures/cantons.assetdetail.15864483.html), [csv](https://www.bfs.admin.ch/bfs/en/home/statistics/regional-statistics/regional-portraits-key-figures/cantons.assetdetail.16484442.html)
    4. [Cantonal portraits 2021, Up-to-date regional key figures on the 26 cantons](https://www.bfs.admin.ch/bfs/en/home/statistics/regional-statistics/regional-portraits-key-figures/cantons.assetdetail.15864449.html)
    5. Click on the map, see each canton, for example, [Vaud](https://www.bfs.admin.ch/bfs/en/home/statistics/regional-statistics/regional-portraits-key-figures/cantons/vaud.html), data available from 2012-2021
+   6. Another [search tool](https://www.bfs.admin.ch/bfs/en/home/statistics/catalogue.html?articleModelGroup=900029&articleModel=900030%2C900113&institution=900065&spatialdivision=900092), provided by Centre d'information statistique
 2. [GDP](https://opendata.swiss/en/dataset/bruttoinlandsprodukt-bip-nach-grossregion-und-kanton5). 2008-2022, GDP per canton, change over previous year in %, at current prices, change over previous year in %, at prices of preceding year. [Raw file](./data/gdp.xlsx)
 3. Population.
    1. [Detailed population data of 2023](https://www.bfs.admin.ch/news/en/2024-0234)
