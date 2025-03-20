@@ -57,7 +57,7 @@ We can see that from 2008 to 2022, Zürich(ZH) and Bern(BE) have the largest GDP
 
 ### Population
 
-Here we have the population of each canton in 2023.
+Population can serve as an indicator of a society’s vibrancy. Here, we present the population of each canton in 2023.
 
 ![population](./fig/population_per_canton.png)
 
@@ -65,7 +65,7 @@ From the figure, the top 5 cantons with the most population is Zürich(ZH), Bern
 
 ### Employment Rate
 
-Employment rate could reflect the society atmosphere and the potential safety risk.
+Employment rate could reflect the society atmosphere and the potential safety risk, which is an important indicator for happiness.
 
 ![employ](./fig/employment_rate_per_canton.png)
 
@@ -74,7 +74,7 @@ For employment rate, Appenzell I. Rh.(AI) ranks first, with employment rate arou
 
 ### Conclusion
 
-Switzerland is a federal state composed of each canton. Cantons have their own characteristics in all aspects.
+Switzerland is a federal state made up of individual cantons, each with its own unique characteristics. Here, we present a preliminary analysis of a portion of our dataset on happiness. As our project progresses, we will incorporate additional data sources to provide a more comprehensive representation of the happiness index across cantons.
 
 ## Related work
 
